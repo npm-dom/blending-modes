@@ -1,0 +1,23 @@
+{
+  "name": "blending-modes",
+  "version": "0.0.0",
+  "description": "Canvas Blending Modes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "canvas",
+    "web",
+    "browser",
+    "browserify",
+    "dom",
+    "html5"
+  ],
+  "repository": {
+    "url": "git@github.com:npm-dom\/blending-modes.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
