@@ -1,11 +1,8 @@
 {
   "name": "blending-modes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Canvas Blending Modes",
   "main": "index.js",
-  "scripts": {
-    "test": "node test"
-  },
   "keywords": [
     "canvas",
     "web",
